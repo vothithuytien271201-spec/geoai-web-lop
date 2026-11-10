@@ -1,1 +1,1 @@
-# geoai-web-lop
+# geoai-web
